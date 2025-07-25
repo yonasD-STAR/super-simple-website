@@ -1,0 +1,332 @@
+.body{
+    background-image: url(bd11.jpg);
+    background-size: 75%;
+}
+.box2{
+    background-color:white;
+    height: 340px;
+    width: 350px;
+    color: #2081c2;
+    border-radius: 20px;
+}
+.box3{
+color: #2081c2;
+    height: 340px;
+    width: 350px;
+    background-color: white; 
+     border-radius: 20px;
+
+}
+
+
+.box5{
+    background-color:white;
+    height: 340px;
+    width: 350px;
+    color:#2081c2;
+    transform:translate(-50%,-50%);
+    left: 650px;
+    top:25%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.box9{
+    background-color:white;
+    height: 335px;
+    width: 350px;
+    color: #2081c2;
+    transform:translate(-50%,-50%);
+    left: 650px;
+    top:70%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.box01{
+    background-color:white;
+    height: 340px;
+    width: 350px;
+    color: #2081c2;
+    transform:translate(-50%,-50%);
+    left: 1100px;
+    top:25%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.box03{
+    background-color:white;
+    height: 340px;
+    width: 350px;
+    color: #2081c2;
+    transform:translate(-50%,-50%);
+    left: 1100px;
+    top:70%;
+    position: absolute;
+    border-radius: 20px;
+}
+.summ{
+    background-color:white;
+    height: 250px;
+    width: 260px;
+    color: #2081c2;
+    transform:translate(-50%,-50%);
+    left: 1450px;
+    top:50%;
+    position: absolute;
+    border-radius: 20px; 
+}
+.inner1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 95px;
+    width: 150px; 
+    color:gray;
+    border-radius: 20px; 
+}.inner2{
+    font-family:'Times New Roman', Times, serif;
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.inner3{
+   
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.inner4{
+   
+    height: 95px;
+    width: 150px; 
+    color:gray;
+    border-radius: 20px;
+}
+.inner5{
+    font-family:'Times New Roman', Times, serif;
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.inner9{
+    font-family:'Times New Roman', Times, serif;
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+
+.inner01{
+    
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.inner02{
+ 
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.inner03{
+   
+    height: 95px;
+    width: 150px; 
+    color:gray; 
+    border-radius: 20px;
+}
+.head1{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    }
+.head2{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    border-radius: 20px;
+
+    }
+     .head3{
+        background-color: aqua;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        border-radius: 20px;
+
+        }
+        .head4{
+            background-color: aqua;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+            border-radius: 20px;
+            }
+            .head5{
+                background-color: aqua;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+                border-radius: 20px;
+                            }
+                            .head9{
+                                background-color: aqua;
+                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                text-align: center;
+                                border-radius: 20px;
+                                }
+                                .head7{
+                                    background-color: aliceblue;
+                                    text-align: center;
+                                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                    border-radius: 20px;
+                                    }
+                                    .head11{
+                                        background-color: aqua;
+                                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                        text-align: center;
+                                        border-radius: 20px;
+                                        }
+                                        .head13{
+                                            background-color: aqua;
+                                            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                            text-align: center;
+                                            border-radius: 20px;
+                                            }
+                                            .text1{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text11{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text111{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                        
+                                            }
+                                            .text2{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                                font-family: 'Times New Roman', Times, serif;
+                                            }.text22{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text222{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }
+                                            .text0{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: inherit;
+                                            }.text00{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text000{
+                                                background-color:aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text5{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: inherit;
+                                            }.text55{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text555{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }
+                                            .text9{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: inherit;
+                                            }.text99{
+                                                background-color:aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text999{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }
+                                            .text13{
+                                                background-color:aqua;
+                                                border-radius: 20px;
+                                                text-align: inherit;
+                                            }.text133{
+                                                background-color:aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }.text1333{
+                                                background-color: aqua;
+                                                border-radius: 20px;
+                                                text-align: center;
+                                            }
+
+.btn1{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}
+.btn2{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}
+.btn3{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}
+.btn4{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}
+.btn5{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}
+.btn{
+    border: none;
+    outline:none ;
+    height: 40px;
+    background-color:steelblue ;
+    color:#fff ;
+    font-size:18px ;
+    border-radius:20px ;  
+}

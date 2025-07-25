@@ -1,0 +1,10 @@
+<?php
+$fname="";
+$lname="";
+$email="";
+$sex="";
+$pass1="";
+$pass2="";
+$err=array(); 
+$congra="";
+?>
